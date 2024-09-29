@@ -9,7 +9,8 @@ profile:
   image: jasmin-ulli.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <span style="text-transform: capitalize;">JASMIN ULLI</span>, MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern.
+    <span style="text-transform: capitalize;">JASMIN ULLI</span>, MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern. <br />E-Mail:
+    dreisatzmethode[at]gmail.com
 
 nav: true
 nav_order: 2

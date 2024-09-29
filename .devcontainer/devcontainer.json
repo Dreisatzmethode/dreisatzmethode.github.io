@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
   "name": "Jekyll",
-  "image": "mcr.microsoft.com/devcontainers/jekyll",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:bookworm",
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {
@@ -22,7 +22,11 @@
         // use prettier code formatter as default formatter
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "prettier.configPath": ".prettierrc",
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        "[markdown]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "editor.rulers": [150]
       }
     }
   },

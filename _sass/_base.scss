@@ -1287,3 +1287,28 @@ ninja-keys::part(ninja-input-wrapper) {
     border-bottom-color: var(--global-divider-color);
   }
 }
+
+//
+img.btn-icon {
+  display: block;
+  max-width: 50px;
+  float: left;
+}
+
+.excel-btn {
+  display: inline-block;
+  padding-left: 50px; /* Adjust padding to make space for the icon */
+  line-height: 30px; /* Adjust line height to match icon size */
+  position: relative; /* Ensure the pseudo-element is positioned relative to the button */
+
+  &::before {
+    content: url("../img/Microsoft_Office_Excel.svg");
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+  }
+}

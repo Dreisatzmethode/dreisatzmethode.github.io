@@ -4,6 +4,13 @@
 
 // Typography
 
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-optical-sizing: auto;
+}
+
 p,
 h1,
 h2,
@@ -188,7 +195,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-style: italic;
 
     p {
       display: inline-block;

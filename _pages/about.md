@@ -27,4 +27,4 @@ Schwerpunkt SchKG bei Prof. Dr. iur. Rodrigo Rodriguez und seit Juli 2024 am Leh
 Regina E. Aebi-Müller. Seit September 2024 hat sie einen Lehrauftrag für Übungen im Personenrecht.
 
 Neben der Lehrstuhltätigkeit widmet sich Jasmin Ulli ihrem Dissertationsprojekt. Dabei interessiert sie sich für prozessrechtliche Herausforderungen
-im Familienprozess, insbesondere im Rahmen von Kinderunterhaltsklagen.
+im Familienprozess, insbesondere im Rahmen von Kindesunterhaltsklagen.

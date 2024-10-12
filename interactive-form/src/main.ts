@@ -1,26 +1,10 @@
-import "./assets/main.css";
+import { createApp } from 'vue'
+import './style.css'
+import './style.scss'
+import App from './App.vue'
+import Vueform from '@vueform/vueform'
+import vueformConfig from './../vueform.config'
 
-import { createApp } from "vue";
-import { createPinia } from "pinia";
-
-import App from "./App.vue";
-import router from "./router";
-
-// FormKit imports
-import { plugin as formKitPlugin, defaultConfig } from "@formkit/vue";
-import { createMultiStepPlugin } from "@formkit/addons";
-import "@formkit/themes/genesis";
-import "@formkit/addons/css/multistep";
-
-const app = createApp(App);
-
-app.use(createPinia());
-app.use(router);
-app.use(
-  formKitPlugin,
-  defaultConfig({
-    plugins: [createMultiStepPlugin()],
-  })
-);
-
-app.mount("#app");
+const app = createApp(App)
+app.use(Vueform, vueformConfig)
+app.mount('#app')

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Über die Autorin
+title: Über die Autoren
 subtitle: Jasmin Ulli
 permalink: /about
 

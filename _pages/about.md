@@ -24,15 +24,6 @@ Neben der Lehrstuhltätigkeit widmet sich Jasmin Ulli ihrem Dissertationsprojekt
 im Familienprozess - insbesondere im Rahmen von Kindesunterhaltsklagen.
 
 
-
-
-
-
-
-
----
-layout: about
-title: Über die Autoren
 subtitle: Oliver Schmid
 permalink: /about
 

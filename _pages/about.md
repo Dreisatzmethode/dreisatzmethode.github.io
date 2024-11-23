@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Über die Autoren
-subtitle: Jasmin Ulli
+subtitle: Jasmin Ulli & Oliver Schmid
 permalink: /about
 
 profile:
@@ -15,27 +15,20 @@ nav: true
 nav_order: 2
 ---
 
-Jasmin Ulli studierte an der Universität Luzern Rechtswissenschaft mit einem Auslandaufenthalt an der Sciences Po, Aix-en-Provence. Nach dem Studium erwarb sie im Juni 2023 das Anwaltspatent des Kantons Zürich.
-Seit Juni 2022 arbeitet Jasmin Ulli als wissenschaftliche Assistentin an der Universität Luzern. Zuerst am Lehrstuhl für Zivilverfahrensrecht mit
-Schwerpunkt SchKG bei Prof. Dr. iur. Rodrigo Rodriguez und seit Juli 2024 am Lehrstuhl für Privatrecht und Privatrechtsvergleichung bei Prof. Dr. iur.
-Regina E. Aebi-Müller. Seit September 2024 hat sie einen Lehrauftrag für Übungen im Personenrecht.
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 
-Neben der Lehrstuhltätigkeit widmet sich Jasmin Ulli ihrem Dissertationsprojekt. Dabei interessiert sie sich für prozessrechtliche Herausforderungen
-im Familienprozess - insbesondere im Rahmen von Kindesunterhaltsklagen.
+<!-- Jasmin Ulli -->
+<div style="text-align: center; max-width: 300px;">
+  <img src="Portraitbild_Ulli_Jasmin_2.png" alt="Jasmin Ulli" style="width: 100%; border-radius: 10px;">
+  <h3>Jasmin Ulli</h3>
+  <p>MLaw, Rechtsanwältin, Doktorandin, Universität Luzern.</p>
+</div>
 
+<!-- Oliver Schmid -->
+<div style="text-align: center; max-width: 300px;">
+  <img src="Portrait_OSchmid.png" alt="Oliver Schmid" style="width: 100%; border-radius: 10px;">
+  <h3>Oliver Schmid</h3>
+  <p>BSc in Betriebsökonomie, Wissenschaftlicher Mitarbeiter, FernUni Schweiz.</p>
+</div>
 
-subtitle: Oliver Schmid
-permalink: /about
-
-profile:
-  align: right
-  image: Portrait_OSchmid.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <span style="text-transform: capitalize;">OLIVER SCHMID</span>, BSc in Betriebsökonomie, Wissenschaftlicher Mitarbeiter, FernUni Schweiz.
-
-nav: true
-nav_order: 2
----
-
-Oliver Schmid ist wissenschaftlicher Mitarbeiter bei der FernUni Schweiz. 
+</div>

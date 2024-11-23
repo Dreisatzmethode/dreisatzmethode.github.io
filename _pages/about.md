@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Über die Autoren
-subtitle: Jasmin Ulli & Max Beispiel
+subtitle:  
 permalink: /about/
 nav: true
 nav_order: 2
@@ -11,18 +11,16 @@ nav_order: 2
 
 <!-- Person 1: Jasmin Ulli -->
 <div style="text-align: center; max-width: 300px;">
-  <img src="Portraitbild_Ulli_Jasmin_2.png" alt="Jasmin Ulli" style="width: 100%; border-radius: 10px;">
+  <img src="assets/img/Portraitbild_Ulli_Jasmin_2.png" alt="Jasmin Ulli" style="width: 100%; border-radius: 10px;">
   <h3>Jasmin Ulli</h3>
   <p>MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern.</p>
-  <p>Jasmin Ulli studierte an der Universität Luzern Rechtswissenschaft mit einem Auslandaufenthalt an der Sciences Po, Aix-en-Provence. Nach dem Studium erwarb sie im Juni 2023 das Anwaltspatent des Kantons Zürich.</p>
-</div>
-
-<!-- Person 2: Max Beispiel -->
+ 
+<!-- Person 2: Oliver Schmid -->
 <div style="text-align: center; max-width: 300px;">
-  <img src="Portrait_OSchmid.png" alt="Max Beispiel" style="width: 100%; border-radius: 10px;">
-  <h3>Max Beispiel</h3>
-  <p>Dipl.-Ing., KI-Forscher, Softwareentwickler.</p>
-  <p>Max Beispiel hat an der TU München Informatik studiert und arbeitet seit 2018 als KI-Forscher und Softwareentwickler mit Fokus auf maschinellem Lernen.</p>
+  <img src="assets/img/Portrait_OSchmid.png" alt="Oliver Schmid" style="width: 100%; border-radius: 10px;">
+  <h3>Oliver Schmid</h3>
+  <p>BSc in Betriebsökonomie, Wissenschaftlicher Mitarbeiter, FernUni Schweiz.</p>
+
 </div>
 
 </div>

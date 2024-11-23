@@ -13,7 +13,7 @@ Die Dreisatzmethode beruht auf den Überlegungen beider Autoren. Oliver Schmid h
 
 Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dreisatzmethode[at]gmail.com
 
-[PDF-Datei "Erklärungen zur Dreisatzmethode"](assets/pdf/Erklärung Dreisatzmethode.pdf)
+[PDF-Datei "Erklärungen zur Dreisatzmethode"](assets/pdf/Erklärung Dreisatzmethode.pdf){: .btn .pdf-btn}
 
- [Excel-Tabelle «Dreisatzmethode nach Schulstufenmodell»](assets/excel/Dreisatzmethode_nach_Schulstufenmodell_v1.xlsx){: .btn .excel-btn} [Excel-Tabelle «Dreisatzmethode Abweichung vom Schulstufenmodell»](assets/excel/Dreisatzmethode_Abweichung_vom_Schulstufenmodell_v1.xlsx){: .btn .excel-btn}
+ [Excel-Tabelle «Dreisatzmethode bei Anwendbarkeit des Schulstufenmodells»](assets/excel/Dreisatzmethode individuell 12-24.xlsx){: .btn .excel-btn} [Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell»](assets/excel/Dreisatzmethode Schulstufenmodell 12-24.xlsx){: .btn .excel-btn}
 

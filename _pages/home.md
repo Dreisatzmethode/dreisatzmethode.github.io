@@ -15,3 +15,10 @@ Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dre
 
  [Excel-Tabelle «Dreisatzmethode bei Anwendbarkeit des Schulstufenmodells»](assets/excel/Dreisatzmethode individuell 12-24.xlsx){: .btn .excel-btn} [Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell»](assets/excel/Dreisatzmethode Schulstufenmodell 12-24.xlsx){: .btn .excel-btn}
 
+ ## Erklärvideo zur Dreisatzmethode ansehen
+
+<video width="640" height="360" controls>
+  <source src="assets/video/Erklärvideo_final_1.0.mp4" type="video/mp4">
+  Dein Browser unterstützt dieses Videoformat nicht.
+</video>
+

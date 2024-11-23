@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Über die Autoren
-subtitle: Jasmin Ulli und Oliver Schmid
+subtitle: Jasmin Ulli
 permalink: /about
 
 profile:

@@ -25,3 +25,5 @@ nav_order: 2
 </div>
 
 </div>
+
+Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dreisatzmethode[at]gmail.com

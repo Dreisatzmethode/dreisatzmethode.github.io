@@ -11,7 +11,7 @@ dass alle unterhaltspflichtigen Personen gleichbehandelt werden. Die Berechnungs
 
 Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dreisatzmethode[at]gmail.com
 
-[PDF-Datei "Erklärungen zur Dreisatzmethode"](assets/pdf/Erklärung Dreisatzmethode.pdf){: .btn .pdf-btn}
+[PDF-Datei "Erklärungen zur Dreisatzmethode"](assets/pdf/241132_Erklärung Dreisatzmethode.pdf){: .btn .pdf-btn}
 
  [Excel-Tabelle «Dreisatzmethode bei Anwendbarkeit des Schulstufenmodells»](assets/excel/Dreisatzmethode individuell 12-24.xlsx){: .btn .excel-btn} [Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell»](assets/excel/Dreisatzmethode Schulstufenmodell 12-24.xlsx){: .btn .excel-btn}
 

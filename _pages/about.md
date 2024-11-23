@@ -6,6 +6,7 @@
   <h3>Jasmin Ulli</h3>
   <p>MLaw, Rechtsanwältin, Doktorandin, Universität Luzern.</p>
 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dein-benutzername/](https://www.linkedin.com/in/jasmin-ulli-732517174/))
 
 <!-- Oliver Schmid -->
 <div style="text-align: center; max-width: 300px;">

@@ -9,9 +9,6 @@ Praxis ist unklar, wie die Verteilung geschehen soll. Mit der Dreisatzmethode wi
 dass alle unterhaltspflichtigen Personen gleichbehandelt werden. Die Berechnungsmethode basiert auf dem in der AJP erschienenen Artikel  [JASMIN ULLI/OLIVER SCHMID,
 «Betreuungsunterhaltsberechnungen in Patchworkfamilien nach der Dreisatzmethode», in: AJP 12/2024](https://www.dike.ch/zeitschriften/ajp-pja).
 
-Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dreisatzmethode[at]gmail.com
-
-
  [Excel-Tabelle «Dreisatzmethode bei Anwendbarkeit des Schulstufenmodells»](assets/excel/Dreisatzmethode individuell 12-24.xlsx){: .btn .excel-btn} [Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell»](assets/excel/Dreisatzmethode Schulstufenmodell 12-24.xlsx){: .btn .excel-btn}
 
 <video width="640" height="360" controls>

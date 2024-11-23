@@ -1,18 +1,41 @@
-<div style="display: flex; gap: 30px; align-items: flex-start;">
+---
+layout: about
+title: Über die Autoren
+subtitle: Jasmin Ulli
+permalink: /about
 
-<!-- Jasmin Ulli -->
-<div style="text-align: center; max-width: 300px;">
-  <img src="Portraitbild_Ulli_Jasmin_2.png" alt="Jasmin Ulli" style="width: 100%; border-radius: 10px;">
-  <h3>Jasmin Ulli</h3>
-  <p>MLaw, Rechtsanwältin, Doktorandin, Universität Luzern.</p>
-</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dein-benutzername/](https://www.linkedin.com/in/jasmin-ulli-732517174/))
+profile:
+  align: right
+  image: Portraitbild_Ulli_Jasmin_2.png
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <span style="text-transform: capitalize;">JASMIN ULLI</span>, MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern.
 
-<!-- Oliver Schmid -->
-<div style="text-align: center; max-width: 300px;">
-  <img src="Portrait_OSchmid.png" alt="Oliver Schmid" style="width: 100%; border-radius: 10px;">
-  <h3>Oliver Schmid</h3>
-  <p>BSc in Betriebsökonomie, Wissenschaftlicher Mitarbeiter, FernUni Schweiz.</p>
-</div>
+nav: true
+nav_order: 2
+---
 
-</div>
+Jasmin Ulli studierte an der Universität Luzern Rechtswissenschaft mit einem Auslandaufenthalt an der Sciences Po, Aix-en-Provence. Nach dem Studium erwarb sie im Juni 2023 das Anwaltspatent des Kantons Zürich.
+Seit Juni 2022 arbeitet Jasmin Ulli als wissenschaftliche Assistentin an der Universität Luzern. Zuerst am Lehrstuhl für Zivilverfahrensrecht mit
+Schwerpunkt SchKG bei Prof. Dr. iur. Rodrigo Rodriguez und seit Juli 2024 am Lehrstuhl für Privatrecht und Privatrechtsvergleichung bei Prof. Dr. iur.
+Regina E. Aebi-Müller. Seit September 2024 hat sie einen Lehrauftrag für Übungen im Personenrecht.
+
+Neben der Lehrstuhltätigkeit widmet sich Jasmin Ulli ihrem Dissertationsprojekt. Dabei interessiert sie sich für prozessrechtliche Herausforderungen
+im Familienprozess - insbesondere im Rahmen von Kindesunterhaltsklagen.
+
+
+subtitle: Oliver Schmid
+permalink: /about
+
+profile:
+  align: right
+  image: Portrait_OSchmid.png
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <span style="text-transform: capitalize;">OLIVER SCHMID</span>, BSc in Betriebsökonomie, Wissenschaftlicher Mitarbeiter, FernUni Schweiz.
+
+nav: true
+nav_order: 2
+---
+
+Oliver Schmid ist wissenschaftlicher Mitarbeiter bei der FernUni Schweiz.

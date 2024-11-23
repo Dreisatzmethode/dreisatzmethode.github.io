@@ -1,20 +1,3 @@
----
-layout: about
-title: Über die Autoren
-subtitle: Jasmin Ulli & Oliver Schmid
-permalink: /about
-
-profile:
-  align: right
-  image: Portraitbild_Ulli_Jasmin_2.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <span style="text-transform: capitalize;">JASMIN ULLI</span>, MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern.
-
-nav: true
-nav_order: 2
----
-
 <div style="display: flex; gap: 30px; align-items: flex-start;">
 
 <!-- Jasmin Ulli -->

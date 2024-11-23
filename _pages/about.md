@@ -9,7 +9,7 @@ profiles:
     name: Jasmin Ulli
     description: MLaw, Rechtsanwältin, Doktorandin, Universität Luzern.
 
-  - image: Portraitbild_Max_Beispiel.png
+  - image: Portrait_OSchmid.png
     name: Oliver Schmid
     description: BSc in Betriebsökonomie, Wissenschaftlicher Mitarbeiter, FernUni Schweiz.
 

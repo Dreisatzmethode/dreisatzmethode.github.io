@@ -16,4 +16,10 @@ dass alle unterhaltspflichtigen Personen gleichbehandelt werden. Die Berechnungs
   Dein Browser unterstützt dieses Videoformat nicht.
 </video>
 
+<video width="640" height="360" controls>
+  <source src="assets/video/Erklärvideo Excel Tabellen 12-24.MP4" type="video/mp4">
+  Dein Browser unterstützt dieses Videoformat nicht.
+</video>
+
+
 [PDF-Datei «Erklärungen zur Dreisatzmethode»](assets/pdf/241132_Erklärung Dreisatzmethode.pdf){: .btn .pdf-btn}

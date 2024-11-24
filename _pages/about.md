@@ -13,7 +13,7 @@ nav_order: 2
 <div style="text-align: center; max-width: 300px;">
  <img src="assets/img/Portraitbild_Ulli_Jasmin_2.png" alt="Beschreibung" width="300" />
   <h3>Jasmin Ulli</h3>
-  <p>MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern.</p>
+  <p>MLaw, Rechtsanwältin, Doktorandin, Universität Luzern.</p>
  
 <!-- Person 2: Oliver Schmid -->
 <div style="text-align: center; max-width: 300px;">

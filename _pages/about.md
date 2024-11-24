@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Person 1: Jasmin Ulli -->
 <div style="text-align: center; max-width: 300px;">
-![Portrai Jasmin Ulli](assets/img/Portraitbild_Ulli_Jasmin_2.png)
+ <img src="assets/img/Portraitbild_Ulli_Jasmin_2.png" alt="Beschreibung" width="300" />
   <h3>Jasmin Ulli</h3>
   <p>MLaw, Rechtsanwältin, Doktorandin an der Universität Luzern.</p>
  

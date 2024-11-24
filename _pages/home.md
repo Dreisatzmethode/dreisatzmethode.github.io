@@ -17,7 +17,7 @@ dass alle unterhaltspflichtigen Personen gleichbehandelt werden. Die Berechnungs
 </video>
 
 <video width="640" height="360" controls>
-  <source src="assets/video/Erklärvideo Excel Tabellen 12-24.MP4" type="video/mp4">
+  <source src="assets/video/Erklärvideo Excel-Tabellen 12-24 komprimiert.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Videoformat nicht.
 </video>
 

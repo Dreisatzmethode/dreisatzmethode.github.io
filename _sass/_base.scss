@@ -1309,7 +1309,29 @@ img.btn-icon {
   position: relative; /* Ensure the pseudo-element is positioned relative to the button */
 
   &::before {
-    content: url("../img/Microsoft_Office_Excel.svg");
+    content: "";
+    background-image: url("../img/Microsoft_Office_Excel.svg");
+    background-size: 30px 30px;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+  }
+}
+
+.pdf-btn {
+  display: inline-block;
+  padding-left: 50px; /* Adjust padding to make space for the icon */
+  line-height: 30px; /* Adjust line height to match icon size */
+  position: relative; /* Ensure the pseudo-element is positioned relative to the button */
+
+  &::before {
+    content: "";
+    background-image: url("../img/PDF_file_icon.svg");
+    background-size: 30px 30px;
     display: inline-block;
     position: absolute;
     left: 10px;

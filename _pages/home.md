@@ -57,6 +57,6 @@ der AJP erschienenen Artikel
 
 <div class="container">
   <div class="row justify-content-sm-center">
-    <a href="assets/pdf/241132_Erklärung Dreisatzmethode.pdf" class="btn pdf-btn">PDF-Datei «Erklärungen zur Dreisatzmethode»</a>
+    <a href="assets/pdf/241132_Erklärung Dreisatzmethode.pdf" class="btn pdf-btn">PDF-Datei «Erklärungen zur Dreisatzmethode                         »</a>
   </div>
 </div>

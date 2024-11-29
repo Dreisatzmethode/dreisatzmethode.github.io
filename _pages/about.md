@@ -19,7 +19,7 @@ nav_order: 2
         %}
         <div class="caption">
           <h3>Jasmin Ulli</h3>
-          <p>MLaw, Rechtsanwältin, Doktorandin, Universität Luzern.</p>
+          <p>MLaw, Rechtsanwältin, Doktorandin, Wissenschaftliche Assistentin, Universität Luzern.</p>
         </div>
       </div>
       <div class="col-sm-5 mt-3 mt-sm-0">

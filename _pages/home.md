@@ -10,20 +10,6 @@ Vorschlag unterbreitet, der sicherstellt, dass alle unterhaltspflichtigen Person
 der AJP erschienenen Artikel
 [JASMIN ULLI/OLIVER SCHMID, «Betreuungsunterhaltsberechnungen in Patchworkfamilien nach der Dreisatzmethode», in: AJP 12/2024](https://www.dike.ch/zeitschriften/ajp-pja).
 
-<div class="container mt-3">
-  <div class="row justify-content-sm-center">
-    <div class="col-sm-10">
-      {%
-        include video.liquid
-        path="assets/video/Erklaervideo_final_1.0.mp4"
-        class="img-fluid rounded z-depth-1"
-        alt="Dein Browser unterstützt dieses Videoformat nicht."
-        controls=true
-      %}
-    </div>
-  </div>
-</div>
-
 <h2 class="mt-4 mb-3">Berechnungstabellen</h2>
 
 <div class="container">
@@ -36,6 +22,22 @@ der AJP erschienenen Artikel
     <a href="assets/excel/Dreisatzmethode bei Abweichung vom Schulstufenmodell 12-24.xlsx" class="btn excel-btn">
       Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell    »
     </a>
+  </div>
+</div>
+
+<h2 class="mt-4 mb-3">Erklärvideos</h2>
+
+<div class="container mt-3">
+  <div class="row justify-content-sm-center">
+    <div class="col-sm-10">
+      {%
+        include video.liquid
+        path="assets/video/Erklaervideo_final_1.0.mp4"
+        class="img-fluid rounded z-depth-1"
+        alt="Dein Browser unterstützt dieses Videoformat nicht."
+        controls=true
+      %}
+    </div>
   </div>
 </div>
 

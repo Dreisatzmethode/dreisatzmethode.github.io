@@ -34,7 +34,7 @@ der AJP erschienenen Artikel
   </div>
   <div class="row justify-content-sm-center">
     <a href="assets/excel/Dreisatzmethode bei Abweichung vom Schulstufenmodell 12-24.xlsx" class="btn excel-btn">
-      Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell»
+      Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell    »
     </a>
   </div>
 </div>

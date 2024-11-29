@@ -20,7 +20,7 @@ der AJP erschienenen Artikel
   </div>
   <div class="row justify-content-sm-center">
     <a href="assets/excel/Dreisatzmethode bei Abweichung vom Schulstufenmodell 12-24.xlsx" class="btn excel-btn">
-      Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell    »
+      Excel-Tabelle «Dreisatzmethode bei Abweichung vom Schulstufenmodell»
     </a>
   </div>
 </div>
@@ -59,6 +59,6 @@ der AJP erschienenen Artikel
 
 <div class="container">
   <div class="row justify-content-sm-center">
-    <a href="assets/pdf/241132_Erklärung Dreisatzmethode.pdf" class="btn pdf-btn">PDF-Datei «Erklärungen zur Dreisatzmethode                         »</a>
+    <a href="assets/pdf/241132_Erklärung Dreisatzmethode.pdf" class="btn pdf-btn">PDF-Datei «Erklärungen zur Dreisatzmethode»</a>
   </div>
 </div>

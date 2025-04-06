@@ -39,5 +39,5 @@ nav_order: 2
 </div>
 
 <p style="text-align: center">
-Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dreisatzmethode@gmail.com
+Bei Fragen, Unklarheiten oder Feedback freuen wir uns über einen Austausch: dreisatzmethode[at]gmail.com
 </p>

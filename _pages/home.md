@@ -10,7 +10,7 @@ Vorschlag unterbreitet, der sicherstellt, dass alle unterhaltspflichtigen Person
 der AJP erschienenen Artikel
 [JASMIN ULLI/OLIVER SCHMID, «Betreuungsunterhaltsberechnungen in Patchworkfamilien nach der Dreisatzmethode», in: AJP 12/2024, S. 1274 ff](https://www.dike.ch/zeitschriften/ajp-pja).
 
-Überzeugt dich unser Lösungsansatz? Wir würden uns sehr über dein Feedback oder einen Austausch freuen: dreisatzmethode[at]gmail.com
+Überzeugt dich unser Lösungsansatz? Wir würden uns sehr über dein Feedback oder einen Austausch freuen: dreisatzmethode@gmail.com
 
 <h2 class="mt-4 mb-3">Berechnungstabellen</h2>
 

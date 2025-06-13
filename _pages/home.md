@@ -7,8 +7,7 @@ permalink: /
 Betreut ein Elternteil Kinder aus mehreren Beziehungen, müssen (regelmässig) mehrere Unterhaltsschuldner oder Unterhaltsschuldnerinnen für den
 Betreuungsunterhalt aufkommen. In der Praxis ist unklar, wie die Verteilung geschehen soll. Mit der Dreisatzmethode wird ein mathematisch logischer
 Vorschlag unterbreitet, der sicherstellt, dass alle unterhaltspflichtigen Personen gleichbehandelt werden. Die Berechnungsmethode basiert auf dem in
-der AJP erschienenen Artikel
-JASMIN ULLI/OLIVER SCHMID, «Betreuungsunterhaltsberechnungen in Patchworkfamilien nach der Dreisatzmethode», in: AJP 12/2024, S. 1274 ff. [Zum PDF](Ulli_Schmid-AJP_2024-12_1274-1285.pdf)
+der AJP erschienenen Artikel [JASMIN ULLI/OLIVER SCHMID, «Betreuungsunterhaltsberechnungen in Patchworkfamilien nach der Dreisatzmethode», in: AJP 12/2024, S. 1274 ff. ](Ulli_Schmid-AJP_2024-12_1274-1285.pdf)
 
 Überzeugt dich unser Lösungsansatz? Wir freuen uns über dein Feedback oder einen Austausch: dreisatzmethode[at]gmail.com
 
